@@ -12,9 +12,9 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "MĀRĪN MGĪ 👿",
+  "nickNameBot": "𝐄𝐌𝐌𝐀𝐍𝐔𝐄𝐋 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓",
   "prefix": ".",
-  "adminPrefix": "?",
+  "adminPrefix": "/",
   "devPrefix": "/",
   "adminPrefix_note": " ",
   "noPrefix": "adminOnly",
@@ -25,25 +25,25 @@
     "whitelistUsers": []
   },
   "adminBot": [
-    "61591691632709",
-    "61590391333546",
-    "100065590940242"
+    "61559612866119",
+    "61559612866119",
+    "61559612866119"
   ],
   "premiumUsers": [
-    "100087331405932"
+    "61559612866119"
   ],
   "devUsers": [
-    "100087331405932",
-    "61591691632709"
+    "61559612866119",
+    "61559612866119"
   ],
-  "feeCollectorUID": "61591691632709",
+  "feeCollectorUID": "61559612866119",
   "feeCollectorUID_note": "All money spent by users on commands (requiredMoney) will be added to this UID's wallet. Set to empty string to disable.",
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "100087331405932"
+      "61559612866119"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
@@ -104,7 +104,7 @@
     "token": "YOUR GITHUB ACCESS TOCKEN",
     "repo": "BOT REPOSITORY EXP::= https://github.com/MYB-SIFU/GOATBOT-V2",
     "branch": "main",
-    "authorName": "MYB-SIFU",
+    "authorName": "𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐄𝐌𝐌𝐀𝐍𝐔𝐄𝐋 𝐗",
     "authorEmail": "sifatx404@users.noreply.github.com",
     "autopush": {
       "cmd": false,
